@@ -7,6 +7,24 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: #e6e6e6e0;
 }
+nav{
+    background-color: rgba(73, 136, 252, 0.808);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid rgba(255, 211, 117, 0.315);
+   
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+    margin-right: 15px;
+
+}
+nav a:hover{
+    background-color: #ee36a1d2;
+}
 
 main{
     display: flex;
