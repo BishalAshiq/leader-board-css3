@@ -7,6 +7,7 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: #e6e6e6e0;
 }
+
 main{
     display: flex;
     flex-direction: column;
